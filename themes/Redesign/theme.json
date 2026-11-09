@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "id": "Redesign",
+  "name": "Redesign",
+  "version": 1,
+  "brightness": "light",
+  "palette": {
+    "background": "#F2F2F0",
+    "surface": "#E9E9E6",
+    "surfaceHigh": "#DFDFDB",
+    "chip": "#E2E2DE",
+    "accent": "#138A43",
+    "onAccent": "#FFFFFF",
+    "textPrimary": "#151515",
+    "textSecondary": "#646462",
+    "badge": "#2E5BBA",
+    "divider": "#1F000000",
+    "navBar": "#E9E9E6",
+    "snackBackground": "#1C1C1C",
+    "snackForeground": "#FFFFFF",
+    "coverColors": [
+      "#5B6FD6",
+      "#2BB39B",
+      "#E2574C",
+      "#E5A53A",
+      "#8E6BC8",
+      "#3D8FD1",
+      "#D9578C",
+      "#4FA35A"
+    ],
+    "likedGradient": [
+      "#5B6FD6",
+      "#8FD6C7"
+    ]
+  }
+}

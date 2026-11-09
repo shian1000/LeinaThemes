@@ -1,0 +1,40 @@
+{
+  "format": 1,
+  "id": "Lain",
+  "name": "Lain",
+  "version": 1,
+  "brightness": "dark",
+  "fontFamily": "monospace",
+  "palette": {
+    "background": "#05080F",
+    "surface": "#0A1424",
+    "surfaceHigh": "#0E1B30",
+    "chip": "#0C1A2C",
+    "accent": "#5CD6EB",
+    "onAccent": "#02121A",
+    "textPrimary": "#CDE6F0",
+    "textSecondary": "#6E8BA6",
+    "badge": "#8FB8FF",
+    "divider": "#1C3550",
+    "navBar": "#03060B",
+    "snackBackground": "#0E2A40",
+    "snackForeground": "#9BE8F5",
+    "outline": "#2B5B7E",
+    "coverColors": [
+      "#0E3A5A",
+      "#145E73",
+      "#1B6E8C",
+      "#0B2A4A",
+      "#2A4F7A",
+      "#12515E",
+      "#1F3B66",
+      "#0D4D5C"
+    ],
+    "likedGradient": [
+      "#1E3F73",
+      "#5CD6EB"
+    ],
+    "rounded": false,
+    "panelHeaders": true
+  }
+}

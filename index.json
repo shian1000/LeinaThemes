@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "themes": [
+    {
+      "format": 1,
+      "id": "Lain",
+      "name": "Lain",
+      "author": "shian1000",
+      "version": 1,
+      "brightness": "dark",
+      "preview": {
+        "background": "#05080F",
+        "border": "#2B5B7E",
+        "colors": [
+          "#5CD6EB",
+          "#CDE6F0",
+          "#0E3A5A",
+          "#145E73"
+        ],
+        "rounded": false
+      }
+    },
+    {
+      "format": 1,
+      "id": "Cyberpunk",
+      "name": "Cyberpunk",
+      "author": "shian1000",
+      "version": 1,
+      "brightness": "dark",
+      "preview": {
+        "background": "#0E0A0D",
+        "border": "#B8403A",
+        "colors": [
+          "#5FE3E8",
+          "#D8F4F5",
+          "#7A2420",
+          "#16585C"
+        ],
+        "rounded": false
+      }
+    },
+    {
+      "format": 1,
+      "id": "Redesign",
+      "name": "Redesign",
+      "author": "shian1000",
+      "version": 1,
+      "brightness": "light",
+      "preview": {
+        "background": "#F2F2F0",
+        "border": "#1F000000",
+        "colors": [
+          "#138A43",
+          "#151515",
+          "#5B6FD6",
+          "#2BB39B"
+        ],
+        "rounded": true
+      }
+    }
+  ]
+}

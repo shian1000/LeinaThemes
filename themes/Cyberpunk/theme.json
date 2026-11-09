@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "id": "Cyberpunk",
+  "name": "Cyberpunk",
+  "version": 1,
+  "brightness": "dark",
+  "fontFamily": "Rajdhani",
+  "fonts": [
+    "Rajdhani-Regular.ttf",
+    "Rajdhani-SemiBold.ttf",
+    "Rajdhani-Bold.ttf"
+  ],
+  "license": "OFL.txt",
+  "palette": {
+    "background": "#0E0A0D",
+    "surface": "#170F13",
+    "surfaceHigh": "#16191D",
+    "chip": "#1C2226",
+    "accent": "#5FE3E8",
+    "onAccent": "#051416",
+    "textPrimary": "#D8F4F5",
+    "textSecondary": "#D65A50",
+    "badge": "#E0524A",
+    "divider": "#3A1D20",
+    "navBar": "#0A0C0F",
+    "snackBackground": "#0F2A2D",
+    "snackForeground": "#8FF3F6",
+    "outline": "#B8403A",
+    "coverColors": [
+      "#7A2420",
+      "#16585C",
+      "#9E3A33",
+      "#0F3E42",
+      "#5A1A26",
+      "#1F6F73",
+      "#3B1418",
+      "#24474F"
+    ],
+    "likedGradient": [
+      "#8C2A2A",
+      "#5FE3E8"
+    ],
+    "rounded": false,
+    "chamfered": true,
+    "panelHeaders": true,
+    "uppercaseTitles": true
+  }
+}
